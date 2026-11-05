@@ -34,3 +34,12 @@ and e-commerce platforms.
 This repository showcases my QA testing
 knowledge and documentation skills through
 sanitized sample testing materials.
+
+## Testing Approach
+
+- Requirement Analysis
+- Test Scenario Preparation
+- Test Case Execution
+- Defect Identification
+- Bug Reporting
+- Retesting and Regression Testing
